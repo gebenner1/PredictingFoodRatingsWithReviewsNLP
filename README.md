@@ -5,4 +5,4 @@ We are using features (mainly the text and summary) from this data to predict th
 
 The files are:
 - FeatureEng_BOW.ipynb (Basic feature engineering, and bag of word predictions)
-- 
+- Word2Vec_Classification.ipynb (Word2Vec embedding approach and slight variations)
