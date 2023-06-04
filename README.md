@@ -1,4 +1,4 @@
-# CIS5190Project
+# CIS5190 - Applied Machine Learning Amazon Fine Food Reviews Project
 
 Our project is based off of https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews.
 We are using features (mainly the text and summary) from this data to predict the reviews of Amazon Fine Foods using mutliple different prediction methods.
